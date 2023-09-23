@@ -1,0 +1,8 @@
+C:\Users\Casper\source\repos\arabauyg\arabauyg\bin\Debug\arabauyg.exe.config
+C:\Users\Casper\source\repos\arabauyg\arabauyg\bin\Debug\arabauyg.exe
+C:\Users\Casper\source\repos\arabauyg\arabauyg\bin\Debug\arabauyg.pdb
+C:\Users\Casper\source\repos\arabauyg\arabauyg\obj\Debug\arabauyg.csproj.AssemblyReference.cache
+C:\Users\Casper\source\repos\arabauyg\arabauyg\obj\Debug\arabauyg.csproj.SuggestedBindingRedirects.cache
+C:\Users\Casper\source\repos\arabauyg\arabauyg\obj\Debug\arabauyg.csproj.CoreCompileInputs.cache
+C:\Users\Casper\source\repos\arabauyg\arabauyg\obj\Debug\arabauyg.exe
+C:\Users\Casper\source\repos\arabauyg\arabauyg\obj\Debug\arabauyg.pdb
